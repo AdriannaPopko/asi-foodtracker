@@ -2,7 +2,7 @@
 
 1. Zaliczenie:
  - [x] [FoodTracker](https://github.com/AdriannaPopko/asi-foodtracker)
- - [x] [https://foodtracker1.herokuapp.com](https://foodtracker1.herokuapp.com/)
+ - [x] [http://projektruby2.herokuapp.com/users/sign_in](http://projektruby2.herokuapp.com/users/sign_in)
 
 Wersja Ruby|Wersja Rails|Baza danych|
 |---|---|---|
